@@ -35,6 +35,7 @@ extern "C" {
  * The above mentioned comments can be used at any place in this file.
  */
 
+//новые изменения
 
 #include "config.h"
 #include "genincludes.h"
